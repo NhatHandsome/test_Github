@@ -1,0 +1,5 @@
+D:
+KLTN
+git add .
+git commit -m "trang thai thay doi"
+git push
